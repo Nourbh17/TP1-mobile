@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TTP1</string>
+
+    <style name="ToolbarTitleText">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+    </style>
+
+    <string name="title_activity_welcome">WelcomeActivity</string>
+</resources>
